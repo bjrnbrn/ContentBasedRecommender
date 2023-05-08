@@ -160,6 +160,8 @@ cython_debug/
 #.idea/
 
 # 
+/img/*
+!/img/.gitkeep
 /audio/*
 !/audio/.gitkeep
 /literature/*

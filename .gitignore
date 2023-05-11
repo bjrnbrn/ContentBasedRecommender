@@ -135,12 +135,24 @@ dmypy.json
 .jar
 .csv
 
+# output FOLDERs
+*/output/*
+!*/output/.gitkeep
 
-# Final Project Audio Files
-audio/*
-!audio/.gitkeep
-literature/*
-data/*/*.mp3
+# input FOLDERs
+*/input/*
+!*/input/.gitkeep
+
+# Final Project
+finalproject/archive/*
+finalproject/audio/*
+!finalproject/audio/.gitkeep
+finalproject/literature/*
+finalproject/data/*/*.mp3
+finalproject/data/*.json
+finalproject/data/*.csv
+!finalproject/data/mixes/.gitkeep
+!finalproject/data/tracks/.gitkeep
 
 #Spotify Credentials
-project/spotipy.txt
+finalproject/project/spotipy.txt

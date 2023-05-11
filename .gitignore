@@ -144,15 +144,15 @@ dmypy.json
 !*/input/.gitkeep
 
 # Final Project
-finalproject/archive/*
-finalproject/audio/*
-!finalproject/audio/.gitkeep
-finalproject/literature/*
-finalproject/data/*/*.mp3
-finalproject/data/*.json
-finalproject/data/*.csv
-!finalproject/data/mixes/.gitkeep
-!finalproject/data/tracks/.gitkeep
+archive/*
+audio/*
+!audio/.gitkeep
+literature/*
+data/*/*.mp3
+data/*.json
+data/*.csv
+!data/mixes/.gitkeep
+!data/tracks/.gitkeep
 
 #Spotify Credentials
-finalproject/project/spotipy.txt
+project/spotipy.txt

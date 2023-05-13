@@ -152,7 +152,24 @@ data/*/*.mp3
 data/*.json
 data/*.csv
 !data/mixes/.gitkeep
+data/spectrograms/*
 !data/tracks/.gitkeep
 
 #Spotify Credentials
 project/spotipy.txt
+
+# Final Project
+finalproject/archive/*
+finalproject/audio/*
+!finalproject/audio/.gitkeep
+finalproject/data/spectrograms/*
+!finalproject/audio/.gitkeep
+finalproject/literature/*
+finalproject/data/*/*.mp3
+finalproject/data/*.json
+finalproject/data/*.csv
+!finalproject/data/mixes/.gitkeep
+!finalproject/data/tracks/.gitkeep
+
+#Spotify Credentials
+finalproject/project/spotipy.txt

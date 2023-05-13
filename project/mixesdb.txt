@@ -1,0 +1,236 @@
+'''
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><title>Category:Style | DJ sets &amp; tracklists on MixesDB</title><link rel="dns-prefetch" href="https://cdn-mixesdb.com"><link rel="dns-prefetch" href="//soundcloud.com"><link rel="dns-prefetch" href="//w.soundcloud.com"><link rel="dns-prefetch" href="//style.sndcdn.com"><link rel="dns-prefetch" href="//api.soundcloud.com"><link rel="dns-prefetch" href="//wis.sndcdn.com"><link rel="dns-prefetch" href="//ec-media.sndcdn.com"><link rel="dns-prefetch" href="//i2.sndcdn.com"><link rel="dns-prefetch" href="//www.mixcloud.com"><link rel="dns-prefetch" href="//thumbnailer.mixcloud.com"><link rel="dns-prefetch" href="//ping.mixcloud.com"><link rel="dns-prefetch" href="//hearthis.at"><link rel="dns-prefetch" href="//media.hearthis.at"><link rel="dns-prefetch" href="//www.youtube.com"><link rel="dns-prefetch" href="//s.youtube.com"><link rel="dns-prefetch" href="//ytimg.com"><link rel="dns-prefetch" href="//i.ytimg.com"><link rel="dns-prefetch" href="//s.ytimg.com"><link rel="dns-prefetch" href="//googlevideo.com"><link rel="dns-prefetch" href="//www.youtube-nocookie.com"><link rel="dns-prefetch" href="//api.spotify.com"><link rel="dns-prefetch" href="//apresolve.spotify.com"><link rel="dns-prefetch" href="//gew-dealer.spotify.com	"><link rel="dns-prefetch" href="//gew-spclient.spotify.com"><link rel="dns-prefetch" href="//open.scdn.co"><link rel="dns-prefetch" href="//open.spotify.com"><link rel="dns-prefetch" href="//spclient.wg.spotify.com"><link rel="dns-prefetch" href="//audio-akp-quic-spotify-com.akamaized.net"><link rel="dns-prefetch" href="//open.scdn.co"><link rel="dns-prefetch" href="//apple.com"><link rel="dns-prefetch" href="//aod-ssl.itunes.apple.com"><link rel="dns-prefetch" href="//xp.apple.com"><link rel="dns-prefetch" href="//universal-activity-service.itunes.apple.com"><link rel="dns-prefetch" href="//play.itunes.apple.com"><link rel="dns-prefetch" href="//js-cdn.music.apple.com"><link rel="dns-prefetch" href="//api.music.apple.com"><link rel="dns-prefetch" href="//d20flqux56m8w7.cloudfront.net"><link rel="dns-prefetch" href="//api.m30w.net"><link rel="dns-prefetch" href="//fls-eu.amazon-adsystem.com"><link rel="dns-prefetch" href="//images-eu.ssl-images-amazon.com"><link rel="dns-prefetch" href="//ir-de.amazon-adsystem.com"><link rel="dns-prefetch" href="//wms-eu.amazon-adsystem.com"><link rel="dns-prefetch" href="//ws-eu.amazon-adsystem.com"><link rel="dns-prefetch" href="//www.google.com"><link rel="dns-prefetch" href="//accounts.google.com"><link rel="dns-prefetch" href="//apis.google.com"><link rel="dns-prefetch" href="//maps.googleapis.com"><link rel="dns-prefetch" href="//ajax.googleapis.com"><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="dns-prefetch" href="//www.gstatic.com"><link rel="dns-prefetch" href="//csi.gstatic.com"><link rel="dns-prefetch" href="//fonts.gstatic.com"><link rel="dns-prefetch" href="//ssl.gstatic.com"><link rel="dns-prefetch" href="//encrypted-tbn0.gstatic.com"><link rel="dns-prefetch" href="//ad.doubleclick.net"><link rel="dns-prefetch" href="//cm.g.doubleclick.net"><link rel="dns-prefetch" href="//pagead2.googlesyndication.com"><link rel="dns-prefetch" href="//cm.g.doubleclick.net"><link rel="dns-prefetch" href="//googleads.g.doubleclick.net"><link rel="dns-prefetch" href="//tpc.googlesyndication.com"><link rel="dns-prefetch" href="//server.adformdsp.net"><link rel="dns-prefetch" href="//doubleclick.net"><link rel="dns-prefetch" href="//g.doubleclick.net"><link rel="dns-prefetch" href="//bid.g.doubleclick.net"><link rel="dns-prefetch" href="//cm.g.doubleclick.net"><link rel="dns-prefetch" href="//static.doubleclick.net"><link rel="dns-prefetch" href="//googlesyndication.com"><link rel="canonical" href="//www.mixesdb.com/w/Category:Style" /><meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1"/><meta property="og:site_name" content="MixesDB &minus; The database for mixes"/><meta property="og:type" content="Website"/><meta property="og:url" content="//www.mixesdb.com/w/Category:Style"/><meta property="og:title" content="Category:Style"/><meta property="og:image" content="//cdn-mixesdb.com/static/images/MixesDB_Logo/MixesDB_Logo_2014_500_crushed.png"/><link rel="shortcut icon" href="//cdn-mixesdb.com/static/images/MixesDB_Logo/MixesDB_Logo_2014_20_dont_crush.png" /><link rel="search" type="application/opensearchdescription+xml" href="/db/opensearch_desc.php" title="MixesDB (en)" /><link rel="stylesheet" href="//www.mixesdb.com/db/load.php?debug=false&amp;lang=en&amp;modules=MyExt.userGroup-AnonCss%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook&amp;styleVersion=5394&amp;*" /><link rel="stylesheet" href="/scripts/font-awesome/4.7.0/css/font-awesome.min.css" /><meta name="ResourceLoaderDynamicStyles" content="" /><link rel="stylesheet" href="//www.mixesdb.com/db/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=monobook&amp;styleVersion=5394&amp;*" /><style>a{text-decoration:none}/* cache key: MixesDB25:resourceloader:filter:minify-css:7:a600e8b7d03c185ad68dff118c95b68b */</style><script src="//www.mixesdb.com/db/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook&amp;styleVersion=5394&amp;*"></script><script>if(window.mw){mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Style","wgPageNameDBkey":"Style","wgTitle":"Style","wgCurRevisionId":3084095,"wgRevisionId":3084095,"wgArticleId":6289,"wgIsArticle":true,"wgIsRedirect":false,"wgHotness":0,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgDefaultDateFormat":"dmy","wgRelevantPageName":"Category:Style","wgRelevantArticleId":6289,"wgFileURL":"","wgUserAdv":"0","wgPageIsProtected":true,"wgUserPrefs":[],"isMobile":"0","wgInstallPathHTTP":"//www.mixesdb.com/db/","wgPageLastEditTimestamp":"2023-02-13T17:54:30Z","jFast":150,"jSlow":800,"pageAffTl":{"hash":null,"tl":null},"wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true});}</script><script>if(window.mw){mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en","language":"en"});});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});/* cache key: MixesDB25:resourceloader:filter:minify-js:7:aa75e4c4fffe3c26614cc0f9ea252dcb */}</script><script>if(window.mw){mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.favorites.style"]);}</script><script google_ui_features = "rc:6"; async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({google_ad_client:"ca-pub-1814224777077362"});</script></head><body class="mediawiki ns-14 ns-subject page-Category_Style page-is-maincat action-view action-no user-anon user-non-adv user-non-mod non-mobile wide"><div id="globalWrapper"><div id="column-content"><div id="mMenu" style="display:none"><a id="mPageIcons" class="mMenuLink mMenuLinkRight" href="javascript:void(0);" title="Web actions for this page"><i class="fa fa-globe"></i></a><!--  --><a id="mUser" class="mMenuLink mMenuLinkRight" href="javascript:void(0);" title="User links"><i class="fa fa-user"></i></a><a id="mSearchIcon" class="mMenuLink mMenuLinkRight" title="Search" href="javascript:void(0);"><i class="fa fa-search"></i></a><form action="/db/index.php" id="mSearchForm" class="top3" style="display:none"><input type="hidden" name="title" value="Special:Search"><input id="mSearchInput" placeholder="Search" name="search" type="text" title="Search MixesDB [f]" accesskey="f" value=""><input type="submit" name="go" class="mw-ui-button searchButton" id="mSearchGoButton" class="bold" value="Go" title="Go to a page with this exact name if exists"><input type="submit" name="fulltext" class="mw-ui-button searchButton" id="mSearchButton" value="?" title="Search MixesDB for this text"><input type="submit" class="onCats mw-ui-button" name="mSearchThisCat" id="mSearchThisCat" value="This cat" title="Search only pages in this category" /></form><a id="mHome" class="mMenuLink mMenuLinkLeft" href="/w/Main_Page" title="Go to Main Page"><i class="fa fa-home"></i><a id="mNavi" class="mMenuLink mMenuLinkLeft" href="javascript:void(0);" title="Navigation links"><i class="fa fa-bars"></i></a><a id="mAction" class="mMenuLink mMenuLinkLeft" href="javascript:void(0);" title="Page actions"><i class="fa fa-cog"></i></a></div><div id="mOverlayInput" style="display:none"></div><div id="content" class="mw-body" role="main"><a id="top"></a><div class="mw-indicators"></div><h1 id="firstHeading" class="firstHeading" lang="en"><span id="pageIcons"><a id="pageIconPlayers" class="pageIcon" href="//www.mixesdb.com/w/MixesDB:Player_search?q=Style" rel="nofollow noopener" target="_blank" title="Search &quot;Style&quot; for players"><i class="fa fa-play-circle"></i></a><a id="pageIconGoogle" class="pageIcon" href="https://www.google.com/search?q=Style" rel="nofollow noopener" target="_blank" title="Google &quot;Style&quot;"><i class="fa fa-google"></i></a><a id="pageIconTwitter" class="pageIcon" href="javascript:TWshare()" rel="nofollow noopener" target="_parent" title="Share this page on Twitter"><i class="fa fa-twitter"></i></a><a id="pageIconPlayers" class="trackIdNet pageIcon op07 right4" href="https://trackid.net/audiostreams?keywords=Style&from=MixesDB" rel="nofollow noopener" target="_blank" title="Search &quot;Style&quot; on TrackId.net"><img width="20" src="https://cdn-mixesdb.com/mw/images/thumb/f/f1/TrackId.net_Logo.png/40px-TrackId.net_Logo.png" alt="TrackId.net Logo"></a><a id="pageIconMixesDBsearch" class="pageIcon op04NF" href="//www.mixesdb.com/db/index.php?title=Special:Search/Style" rel="nofollow noopener" target="_blank" title="Search &quot;Style&quot; on MixesDB"><img style="padding:1px 3px 2px 4px" src="//cdn-mixesdb.com/static/images/icons/PageIcon_MixesDB_-_20x20.png" height="20" width="20"></a></span>Category:Style</h1><div id="bodyContent" class="mw-body-content"><div id="siteSub">From MixesDB</div><div id="contentSub"></div><div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div><div id='catlinks' class='catlinks catlinks-allhidden'></div><div id="mw-content-text"><div id="namespaceHeader"><table class="pageheader" cellspacing="8">
+
+<tr><td class="w49 middle"> <html><form action="//www.mixesdb.com/w/Special:Search"><input type="hidden" name="fulltext" value="Search"><input type="hidden" name="cat" value="Style"><input size="20" id="catSearch" name="search" type="text" accesskey="s" placeholder="Search this category" title="Search this category [alt-s]" value="" autofocus></form></html></
+</td><td class="w2 middle center nobr" rowspan="2"><div id="catJumpTo"></div>
+</td><td rowspan="2" align="right" class="w49 middle nolist"><ul id="pageheaderLinks"></ul>
+</td></tr></table>
+</div><p>This main category lists all style subcategories.<br />
+</p>
+<table border="0" id="cellboxtable" class="floatIfSlim" cellpadding="6px" cellspacing="12px" align="center" style="font-size:94%; color:#aaa; margin-top:-12px">
+<tr><td>
+<p><a href="/w/Category:House" title="Category:House">House</a><span class="linkIconsAfter"></span>&#160; (101,831)
+<br /><a href="/w/Category:Deep_House" title="Category:Deep House">Deep House</a><span class="linkIconsAfter"></span>&#160; (22,089)
+<br /><a href="/w/Category:Lo-Fi_House" title="Category:Lo-Fi House">Lo-Fi House</a><span class="linkIconsAfter"></span>&#160; (25)
+<br /><a href="/w/Category:Vocal_House" title="Category:Vocal House">Vocal House</a><span class="linkIconsAfter"></span>&#160; (3,242)
+<br /><a href="/w/Category:House_(Old_School)" title="Category:House (Old School)">House (Old School)</a><span class="linkIconsAfter"></span>&#160; (1,981)
+<br /><a href="/w/Category:Acid_House" title="Category:Acid House">Acid House</a><span class="linkIconsAfter"></span>&#160; (953)
+<br /><a href="/w/Category:Hip_House" title="Category:Hip House">Hip House</a><span class="linkIconsAfter"></span>&#160; (170)
+</p>
+</td><td>
+<p><a href="/w/Category:Minimal" title="Category:Minimal">Minimal</a><span class="linkIconsAfter"></span>&#160; (16,438)
+<br /><a href="/w/Category:Deep_Tech_House" title="Category:Deep Tech House">Deep Tech House</a><span class="linkIconsAfter"></span>&#160; (3,172)
+<br /><a href="/w/Category:Tech_House" title="Category:Tech House">Tech House</a><span class="linkIconsAfter"></span>&#160; (54,709)
+<br /><a href="/w/Category:IDM" title="Category:IDM">IDM</a><span class="linkIconsAfter"></span>&#160; (881)
+<br /><a href="/w/Category:Leftfield" title="Category:Leftfield">Leftfield</a><span class="linkIconsAfter"></span>&#160; (272)
+<br /><a href="/w/Category:Electro" title="Category:Electro">Electro</a><span class="linkIconsAfter"></span>&#160; (4,121)
+<br /><a href="/w/Category:Booty" title="Category:Booty">Booty</a><span class="linkIconsAfter"></span>&#160; (88)
+<br /><a href="/w/Category:Ghetto" title="Category:Ghetto">Ghetto</a><span class="linkIconsAfter"></span>&#160; (120)
+<br /><a href="/w/Category:Gqom" title="Category:Gqom">Gqom</a><span class="linkIconsAfter"></span>&#160; (69)
+</p>
+</td><td>
+<p><a href="/w/Category:Techno" title="Category:Techno">Techno</a><span class="linkIconsAfter"></span>&#160; (48,612)
+<br /><a href="/w/Category:Dub_Techno" title="Category:Dub Techno">Dub Techno</a><span class="linkIconsAfter"></span>&#160; (1,121)
+<br /><a href="/w/Category:Detroit_Techno" title="Category:Detroit Techno">Detroit Techno</a><span class="linkIconsAfter"></span>&#160; (288)
+<br /><a href="/w/Category:Industrial" title="Category:Industrial">Industrial</a><span class="linkIconsAfter"></span>&#160; (916)
+<br /><a href="/w/Category:Acid" title="Category:Acid">Acid</a><span class="linkIconsAfter"></span>&#160; (2,445)
+<br /><a href="/w/Category:Acid_Techno" title="Category:Acid Techno">Acid Techno</a><span class="linkIconsAfter"></span>&#160; (709)
+<br /><a href="/w/Category:Rave" title="Category:Rave">Rave</a><span class="linkIconsAfter"></span>&#160; (1,971)
+<br /><a href="/w/Category:Hard_Techno" title="Category:Hard Techno">Hard Techno</a><span class="linkIconsAfter"></span>&#160; (3,790)
+</p>
+</td><td>
+<p><a href="/w/Category:Hardcore" title="Category:Hardcore">Hardcore</a><span class="linkIconsAfter"></span>&#160; (2,605)
+<br /><a href="/w/Category:Hardcore_Techno" title="Category:Hardcore Techno">Hardcore Techno</a><span class="linkIconsAfter"></span>&#160; (44)
+<br /><a href="/w/Category:Happy_Hardcore" title="Category:Happy Hardcore">Happy Hardcore</a><span class="linkIconsAfter"></span>&#160; (263)
+<br /><a href="/w/Category:Hardstyle" title="Category:Hardstyle">Hardstyle</a><span class="linkIconsAfter"></span>&#160; (3,843)
+</p>
+</td><td>
+<p><a href="/w/Category:Euro_House" title="Category:Euro House">Euro House</a><span class="linkIconsAfter"></span>&#160; (195)
+<br /><a href="/w/Category:Big_Beat" title="Category:Big Beat">Big Beat</a><span class="linkIconsAfter"></span>&#160; (125)
+<br /><a href="/w/Category:Electro_Pop" title="Category:Electro Pop">Electro Pop</a><span class="linkIconsAfter"></span>&#160; (196)
+<br /><a href="/w/Category:Hard_House" title="Category:Hard House">Hard House</a><span class="linkIconsAfter"></span>&#160; (360)
+<br /><a href="/w/Category:Progressive_House" title="Category:Progressive House">Progressive House</a><span class="linkIconsAfter"></span>&#160; (30,159)
+<br /><a href="/w/Category:Ballroom" title="Category:Ballroom">Ballroom</a><span class="linkIconsAfter"></span>&#160; (41)
+<br /><a href="/w/Category:Italodance" title="Category:Italodance">Italodance</a><span class="linkIconsAfter"></span>&#160; (920)
+<br /><a href="/w/Category:Progressive" title="Category:Progressive">Progressive</a><span class="linkIconsAfter"></span>&#160; (16,296)
+</p>
+</td></tr>
+<tr><td>
+<p><a href="/w/Category:Trance" title="Category:Trance">Trance</a><span class="linkIconsAfter"></span>&#160; (28,433)
+<br /><a href="/w/Category:Progressive_Trance" title="Category:Progressive Trance">Progressive Trance</a><span class="linkIconsAfter"></span>&#160; (6,550)
+<br /><a href="/w/Category:Psytrance" title="Category:Psytrance">Psytrance</a><span class="linkIconsAfter"></span>&#160; (781)
+<br /><a href="/w/Category:Hard_Trance" title="Category:Hard Trance">Hard Trance</a><span class="linkIconsAfter"></span>&#160; (1,414)
+</p>
+</td><td>
+<p><a href="/w/Category:Hip_Hop" title="Category:Hip Hop">Hip Hop</a><span class="linkIconsAfter"></span>&#160; (3,374)
+<br /><a href="/w/Category:Hip_Hop" title="Category:Hip Hop">R&amp;B</a><span class="linkIconsAfter"></span>&#160; (637)
+<br /><a href="/w/Category:Turntablism" title="Category:Turntablism">Turntablism</a><span class="linkIconsAfter"></span>&#160; (48)
+<br /><a href="/w/Category:Grime" title="Category:Grime">Grime</a><span class="linkIconsAfter"></span>&#160; (1,317)
+<br /><a href="/w/Category:Club_Music" title="Category:Club Music">Club Music</a><span class="linkIconsAfter"></span>&#160; (109)
+</p>
+</td><td>
+<p><a href="/w/Category:Dubstep" title="Category:Dubstep">Dubstep</a><span class="linkIconsAfter"></span>&#160; (2,800)
+<br /><a href="/w/Category:Bassline" title="Category:Bassline">Bassline</a><span class="linkIconsAfter"></span>&#160; (1,104)
+<br /><a href="/w/Category:Juke" title="Category:Juke">Juke</a><span class="linkIconsAfter"></span>&#160; (205)
+<br /><a href="/w/Category:Trap" title="Category:Trap">Trap</a><span class="linkIconsAfter"></span>&#160; (59)
+<br /><a href="/w/Category:2_Step" title="Category:2 Step">2 Step</a><span class="linkIconsAfter"></span>&#160; (139)
+<br /><a href="/w/Category:UK_Funky" title="Category:UK Funky">UK Funky</a><span class="linkIconsAfter"></span>&#160; (238)
+<br /><a href="/w/Category:UK_Garage" title="Category:UK Garage">UK Garage</a><span class="linkIconsAfter"></span>&#160; (1,728)
+<br /><a href="/w/Category:Trip_Hop" title="Category:Trip Hop">Trip Hop</a><span class="linkIconsAfter"></span>&#160; (149)
+</p>
+</td><td>
+<p><a href="/w/Category:Drum_%26_Bass" title="Category:Drum &amp; Bass">Drum &amp; Bass</a><span class="linkIconsAfter"></span>&#160; (19,364)
+<br /><a href="/w/Category:Jungle" title="Category:Jungle">Jungle</a><span class="linkIconsAfter"></span>&#160; (2,409)
+<br /><a href="/w/Category:Breakbeat" title="Category:Breakbeat">Breakbeat</a><span class="linkIconsAfter"></span>&#160; (2,204)
+<br /><a href="/w/Category:Breakbeat_Hardcore" title="Category:Breakbeat Hardcore">Breakbeat Hardcore</a><span class="linkIconsAfter"></span>&#160; (863)
+<br /><a href="/w/Category:Breakcore" title="Category:Breakcore">Breakcore</a><span class="linkIconsAfter"></span>&#160; (142)
+</p>
+</td><td>
+<p><a href="/w/Category:Experimental" title="Category:Experimental">Experimental</a><span class="linkIconsAfter"></span>&#160; (1,768)
+<br /><a href="/w/Category:Noise" title="Category:Noise">Noise</a><span class="linkIconsAfter"></span>&#160; (66)
+<br /><a href="/w/Category:Rhythmic_Noise" title="Category:Rhythmic Noise">Rhythmic Noise</a><span class="linkIconsAfter"></span>&#160; (12)
+</p>
+</td></tr>
+<tr><td>
+<p><a href="/w/Category:Dub" title="Category:Dub">Dub</a><span class="linkIconsAfter"></span>&#160; (696)
+<br /><a href="/w/Category:Reggae" title="Category:Reggae">Reggae</a><span class="linkIconsAfter"></span>&#160; (831)
+<br /><a href="/w/Category:Dancehall" title="Category:Dancehall">Dancehall</a><span class="linkIconsAfter"></span>&#160; (387)
+</p>
+</td><td>
+<p><a href="/w/Category:Downtempo" title="Category:Downtempo">Downtempo</a><span class="linkIconsAfter"></span>&#160; (1,661)
+<br /><a href="/w/Category:Chill_Out" title="Category:Chill Out">Chill Out</a><span class="linkIconsAfter"></span>&#160; (2,973)
+<br /><a href="/w/Category:Ambient" title="Category:Ambient">Ambient</a><span class="linkIconsAfter"></span>&#160; (2,354)
+<br /><a href="/w/Category:Classical" title="Category:Classical">Classical</a><span class="linkIconsAfter"></span>&#160; (81)
+<br /><a href="/w/Category:Psychedelic" title="Category:Psychedelic">Psychedelic</a><span class="linkIconsAfter"></span>&#160; (187)
+<br /><a href="/w/Category:Electronica_(Synthesizer)" title="Category:Electronica (Synthesizer)">Electronica (Synthesizer)</a><span class="linkIconsAfter"></span>&#160; (677)
+</p>
+</td><td>
+<p><a href="/w/Category:Pop" title="Category:Pop">Pop</a><span class="linkIconsAfter"></span>&#160; (1,498)
+<br /><a href="/w/Category:Disco" title="Category:Disco">Disco</a><span class="linkIconsAfter"></span>&#160; (11,708)
+<br /><a href="/w/Category:Freestyle" title="Category:Freestyle">Freestyle</a><span class="linkIconsAfter"></span>&#160; (264)
+<br /><a href="/w/Category:Synth_Pop" title="Category:Synth Pop">Synth Pop</a><span class="linkIconsAfter"></span>&#160; (845)
+<br /><a href="/w/Category:Synthwave" title="Category:Synthwave">Synthwave</a><span class="linkIconsAfter"></span>&#160; (18)
+<br /><a href="/w/Category:EBM" title="Category:EBM">EBM</a><span class="linkIconsAfter"></span>&#160; (304)
+<br /><a href="/w/Category:Indie_Dance" title="Category:Indie Dance">Indie Dance</a><span class="linkIconsAfter"></span>&#160; (59)
+</p>
+</td><td>
+<p><a href="/w/Category:Future_Jazz" title="Category:Future Jazz">Future Jazz</a><span class="linkIconsAfter"></span>&#160; (145)
+<br /><a href="/w/Category:Funk" title="Category:Funk">Funk</a><span class="linkIconsAfter"></span>&#160; (2,627)
+<br /><a href="/w/Category:Soul" title="Category:Soul">Soul</a><span class="linkIconsAfter"></span>&#160; (2,370)
+<br /><a href="/w/Category:Breaks" title="Category:Breaks">Breaks</a><span class="linkIconsAfter"></span>&#160; (1,174)
+<br /><a href="/w/Category:Rare_Groove" title="Category:Rare Groove">Rare Groove</a><span class="linkIconsAfter"></span>&#160; (458)
+</p>
+</td><td>
+<p><a href="/w/Category:World_Music" title="Category:World Music">World Music</a><span class="linkIconsAfter"></span>&#160; (514)
+<br /><a href="/w/Category:Jazz" title="Category:Jazz">Jazz</a><span class="linkIconsAfter"></span>&#160; (771)
+<br /><a href="/w/Category:Electro_Swing" title="Category:Electro Swing">Electro Swing</a><span class="linkIconsAfter"></span>&#160; (15)
+<br /><a href="/w/Category:Latin" title="Category:Latin">Latin</a><span class="linkIconsAfter"></span>&#160; (457)
+<br /><a href="/w/Category:Rock" title="Category:Rock">Rock</a><span class="linkIconsAfter"></span>&#160; (487)
+<br /><a href="/w/Category:Various" title="Category:Various">Various</a><span class="linkIconsAfter"></span>&#160; (18,010)
+</p>
+</td></tr></table>
+<div lang="en" dir="ltr"><div id="mw-subcategories"><h2 id="Subcategories">Subcategories</h2>(104 out of 104)</td></tr></table><div lang="en" dir="ltr" class="mw-content-ltr"><ul id="catSubcatsList" class="collist collist4 nolist" style="margin-top:0"><li><a href="/w/Category:2_Step" title="Category:2 Step">2 Step</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Acid" title="Category:Acid">Acid</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Acid_House" title="Category:Acid House">Acid House</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Acid_Techno" title="Category:Acid Techno">Acid Techno</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Ambient" title="Category:Ambient">Ambient</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Ballroom" title="Category:Ballroom">Ballroom</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Bassline" title="Category:Bassline">Bassline</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Big_Beat" title="Category:Big Beat">Big Beat</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Bigroom" title="Category:Bigroom">Bigroom</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Boogie" title="Category:Boogie">Boogie</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Booty" title="Category:Booty">Booty</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Bossa_Nova" title="Category:Bossa Nova">Bossa Nova</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Brasil" title="Category:Brasil">Brasil</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Breakbeat" title="Category:Breakbeat">Breakbeat</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Breakbeat_Hardcore" title="Category:Breakbeat Hardcore">Breakbeat Hardcore</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Breakcore" title="Category:Breakcore">Breakcore</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Breaks" title="Category:Breaks">Breaks</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Chill_Out" title="Category:Chill Out">Chill Out</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Chiptune" title="Category:Chiptune">Chiptune</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Classical" title="Category:Classical">Classical</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Club_Music" title="Category:Club Music">Club Music</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Dancehall" title="Category:Dancehall">Dancehall</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Deep_House" title="Category:Deep House">Deep House</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Deep_Tech_House" title="Category:Deep Tech House">Deep Tech House</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Detroit_Techno" title="Category:Detroit Techno">Detroit Techno</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Disco" title="Category:Disco">Disco</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Downtempo" title="Category:Downtempo">Downtempo</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Drum_%26_Bass" title="Category:Drum &amp; Bass">Drum &amp; Bass</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Dub" title="Category:Dub">Dub</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Dub_Techno" title="Category:Dub Techno">Dub Techno</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Dubstep" title="Category:Dubstep">Dubstep</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:EBM" title="Category:EBM">EBM</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Electro" title="Category:Electro">Electro</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Electro_Pop" title="Category:Electro Pop">Electro Pop</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Electro_Swing" title="Category:Electro Swing">Electro Swing</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Electronica_(Synthesizer)" title="Category:Electronica (Synthesizer)">Electronica (Synthesizer)</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Euro_House" title="Category:Euro House">Euro House</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Experimental" title="Category:Experimental">Experimental</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Freestyle" title="Category:Freestyle">Freestyle</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Funk" title="Category:Funk">Funk</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Future_Jazz" title="Category:Future Jazz">Future Jazz</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Future_Rave" title="Category:Future Rave">Future Rave</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Ghetto" title="Category:Ghetto">Ghetto</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Gospel" title="Category:Gospel">Gospel</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Gqom" title="Category:Gqom">Gqom</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Grime" title="Category:Grime">Grime</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Halftime" title="Category:Halftime">Halftime</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Happy_Hardcore" title="Category:Happy Hardcore">Happy Hardcore</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Hard_House" title="Category:Hard House">Hard House</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Hard_Techno" title="Category:Hard Techno">Hard Techno</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Hard_Trance" title="Category:Hard Trance">Hard Trance</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Hardcore" title="Category:Hardcore">Hardcore</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Hardcore_Techno" title="Category:Hardcore Techno">Hardcore Techno</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Hardstyle" title="Category:Hardstyle">Hardstyle</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Hip_Hop" title="Category:Hip Hop">Hip Hop</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Hip_House" title="Category:Hip House">Hip House</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:House" title="Category:House">House</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:House_(Old_School)" title="Category:House (Old School)">House (Old School)</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:IDM" title="Category:IDM">IDM</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Indie_Dance" title="Category:Indie Dance">Indie Dance</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Industrial" title="Category:Industrial">Industrial</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Italodance" title="Category:Italodance">Italodance</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Jazz" title="Category:Jazz">Jazz</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Juke" title="Category:Juke">Juke</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Jungle" title="Category:Jungle">Jungle</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Latin" title="Category:Latin">Latin</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Leftfield" title="Category:Leftfield">Leftfield</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Library_Music" title="Category:Library Music">Library Music</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Lo-Fi_House" title="Category:Lo-Fi House">Lo-Fi House</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Lovers_Rock" title="Category:Lovers Rock">Lovers Rock</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Minimal" title="Category:Minimal">Minimal</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Modern_Soul" title="Category:Modern Soul">Modern Soul</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:MPB" title="Category:MPB">MPB</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Noise" title="Category:Noise">Noise</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Northern_Soul" title="Category:Northern Soul">Northern Soul</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Pop" title="Category:Pop">Pop</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Prog_Rock" title="Category:Prog Rock">Prog Rock</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Progressive" title="Category:Progressive">Progressive</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Progressive_House" title="Category:Progressive House">Progressive House</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Progressive_Trance" title="Category:Progressive Trance">Progressive Trance</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Psychedelic" title="Category:Psychedelic">Psychedelic</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Psytrance" title="Category:Psytrance">Psytrance</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:R%26B" title="Category:R&amp;B">R&amp;B</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Rare_Groove" title="Category:Rare Groove">Rare Groove</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Rave" title="Category:Rave">Rave</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Reggae" title="Category:Reggae">Reggae</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Rhythmic_Noise" title="Category:Rhythmic Noise">Rhythmic Noise</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Rock" title="Category:Rock">Rock</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Soul" title="Category:Soul">Soul</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Soundtrack" title="Category:Soundtrack">Soundtrack</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Synth_Pop" title="Category:Synth Pop">Synth Pop</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Synthwave" title="Category:Synthwave">Synthwave</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Tech_House" title="Category:Tech House">Tech House</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Techno" title="Category:Techno">Techno</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Trance" title="Category:Trance">Trance</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Trap" title="Category:Trap">Trap</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Trip_Hop" title="Category:Trip Hop">Trip Hop</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Turntablism" title="Category:Turntablism">Turntablism</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:UK_Funky" title="Category:UK Funky">UK Funky</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:UK_Garage" title="Category:UK Garage">UK Garage</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Various" title="Category:Various">Various</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:Vocal_House" title="Category:Vocal House">Vocal House</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:World" title="Category:World">World</a><span class="linkIconsAfter"></span></li>
+<li><a href="/w/Category:World_Music" title="Category:World Music">World Music</a><span class="linkIconsAfter"></span></li></ul></div></div><span style="display:none">&#160;</span><div class="hidden"></div></div><div id="bodyBottom"></div><div id="pageContentEnd"></div></div><div class="visualClear"></div></div></div></div><div id="column-one"><h2>Navigation menu</h2><div id="p-cactions" class="portlet" role="navigation"><h3>Views</h3><div class="pBody"><ul><li id="ca-nstab-category" class="selected"><a href="/w/Category:Style" title="View the category page[c]" accesskey="c">Category</a></li><li id="ca-talk"><a href="/w/Category_talk:Style" title="Discussion about the content page[t]" accesskey="t">Discussion</a></li><li id="ca-history"><a href="/db/index.php?title=Category:Style&amp;action=history" title="Past revisions of this page[h]" accesskey="h">History</a></li><li id="ca-purge" class="logged-list"><a title="Clear server cache" href="/db/index.php?title=Category:Style&amp;action=purge"></a></li></ul></div></div><div class="portlet" id="p-personal" role="navigation"><h3>Personal tools</h3><div class="pBody"><ul><li id="pt-createaccount"><a href="/db/index.php?title=Special:UserLogin&amp;returnto=Category%3AStyle&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/db/index.php?title=Special:UserLogin&amp;returnto=Category%3AStyle" title="You are encouraged to log in; however, it is not mandatory[o]" accesskey="o">Log in</a></li></ul></div></div><div class="portlet" id="p-logo-new" role="banner"><a href="/w/Main_Page" title="Visit the main page"><img src="//cdn-mixesdb.com/static/images/MixesDB_Logo/MixesDB_Logo_2014_138_crushed.png" srcset="//cdn-mixesdb.com/static/images/MixesDB_Logo/MixesDB_Logo_2014_138_crushed_1.1x.png 1.1x, //cdn-mixesdb.com/static/images/MixesDB_Logo/MixesDB_Logo_2014_138_crushed_1.25x.png 1.25x, //cdn-mixesdb.com/static/images/MixesDB_Logo/MixesDB_Logo_2014_138_crushed_1.5x.png 1.5x, //cdn-mixesdb.com/static/images/MixesDB_Logo/MixesDB_Logo_2014_138_crushed_2x.png 2x, //cdn-mixesdb.com/static/images/MixesDB_Logo/MixesDB_Logo_2014_500_crushed.png 3x" width="138" height="105"></a></div><div id="p-search" class="portlet" role="search"><div id="searchBody" class="pBody"><form action="/db/index.php" id="searchform"><input type='hidden' name="title" value=""/><input type="search" name="search" title="Search MixesDB[f]" accesskey="f" id="searchInput" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="mw-ui-button bold searchButton" /><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="mw-ui-button searchButton" /></form></div></div><div class="portlet" id="p-cats" role="navigation"><h3>Categories</h3><div class="pBody"><table border="0" cellspacing="0" cellpadding="0" id="manualsidebar"><tr><td class="manualsidebar-left w50"><ul><li><a id="n-CurrentYear" href="/w/Category:2023">2023</a></li><li><a id="n-Event" href="/w/Category:Event">Event</a></li><li><a id="n-Show" href="/w/Category:Show">Show</a></li><li><a id="n-Style" href="/w/Category:Style">Style</a></li></ul></td><td><ul><li><a id="n-Artist" href="/w/Category:Artist">Artist</a></li><li><a id="n-Venue" href="/w/Category:Venue">Venue</a></li><li><a id="n-Podcast" href="/w/Category:Podcast">Podcast</a></li><li><a id="n-Regular" href="/w/Category:Techno">Techno</a></li><li class="list-artist-content"><a href="/list-artist-content/?id=all&from=menu">Artist content</a></li></ul></td></tr></table></div></div>	<div class="portlet" id="p-navigation" role="navigation"><h3>Navigation</h3><div class="pBody"><ul><li class="p-dbl" id="n-Explorer"><a id="n-Explorer-Mixes" href="/w/MixesDB:Explorer/Mixes">Explore mixes</a></li><li class="p-dbl" id="n-Help"><a href="/w/Help:General">Help section</a> / <a id="n-Forum" href="/w/MixesDB:Forum">Forum</a></li><li class="p-dbl onlylogged" id="n-Addnew" rel="nofollow noopener"><a href="/w/MixesDB:Add_a_new_mix">New mix</a><span id="n-upload" class="onlylogged"> / <a href="/w/Special:Upload">Upload</a></span></li><li id="n-Recent-Changes" class="onlylogged p-dbl" rel="nofollow noopener"><a href="/w/Special:RecentChanges"><span class="non-admin">Recent changes</span><span class="admins">RC</span></a><span class="admins"> / <a href="/w/Special:Patrol" rel="nofollow noopener">Patrol</a></span></li><li id="n-Special-Pages"><a href="/w/MixesDB:Special_pages">Special pages</a></li></ul></div></div><div class="generated-sidebar portlet" id="p-admin_tools" role="navigation"><h3>Mod Tools</h3><div class="pBody"><ul><li id="n-Maintenance"><a href="/w/MixesDB:Maintenance">Maintenance</a></li><li id="n-Special-Characters"><a href="/w/Help:Special_characters">Special characters</a></li><li id="n-Calendar-Dates" class="p-dbl"><a href="http://www.timeanddate.com/calendar/custom.html?year=&ctf=1&cdt=31&holm=1&df=1&cdt=31#calarea" class="external" target="_blank">Calendar</a> / <a href="/w/Help:International_dates">Int. dates</a></li></ul></div></div><div class="portlet" id="p-tb" role="navigation"><h3>Tools</h3><div class="pBody"><ul><li id="t-shorturl"><a href="https://mixesdb.com/?6289">Short URL</a></li><li id="t-info"><a href="/db/index.php?title=Category:Style&amp;action=info" title="More information about this page">Page info</a></li></ul></div></div><div id="adSbWrapper" class="affSbWrapper"><ins class="adsbygoogle" style="display:inline-block;width:120px;height:600px" data-ad-client="ca-pub-1814224777077362" data-ad-slot="2896790222"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div><div class="visualClear"></div><div id="footer" role="contentinfo"><div id="footer-actionButton-home" class="footer-actionButton slimOnly actionThis"><a id="home-footer" href="/w/Main_Page" class="bold greylinks iconLink"><i class="fa fa-home"></i></a></div><div id="footer-ul-wrapper"><ul id="f-list"><li id="lastmod"> <span class="wideOnly">This page was last modified on</span><span class="slimOnly">Last modified:</span> 13 February 2023<span class="hideLT620">, at 19:54</span>.</li><li id="noForDL"><a href="/w/Help:General#How_can_I_download.3F" title="Find out why">This site is not for downloading sets.</a></li></ul><ul id="f-links"><li id="about"><a href="/w/MixesDB:About" rel="nofollow noopener" title="MixesDB:About">About</a></li><li id="privacyPolicy"><a href="/w/MixesDB:Privacy_policy" rel="nofollow noopener" title="MixesDB:Privacy policy">Privacy policy</a></li><li id="cookies"><a href="/w/MixesDB:Privacy_policy#Cookies" title="MixesDB:Privacy policy">Cookies</a></li><li id="legalStuff"><a href="/w/MixesDB:Legal_stuff" rel="nofollow noopener" title="MixesDB:Legal stuff">Legal stuff</a></li><li id="dmca"><a href="/w/MixesDB:DMCA" rel="nofollow noopener" title="MixesDB:DMCA">DMCA</a></li></ul><ul id="us-elsewhere"><li id="poweredMW"><a href="http://www.mediawiki.org/wiki/MediaWiki" target="_blank" rel="nofollow noopener">Powered by MediaWiki</a></li></ul><noscript><ul id="noscript"><li><li>Please <a href="http://activatejavascript.org/en/" target="_blank">enable Javascript in your browser</a> to use MixesDB properly.</li></li></ul></noscript></div><div id="footer-actionButton-toTop" class="footer-actionButton actionThis" style="display:none"><a id="backToTopLink" href="#top" class="bold greylinks iconLink"><i class="fa fa-chevron-up"></i></a></div></div></div><script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){mw.loader.state({"site":"loading","user":"ready"});}</script><script>if(window.mw){mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mdb.placesJs","MyExt.ns-Category","MyExt.userGroup-AnonJs","ext.favorites"],null,true);}</script><script>if(window.mw){document.write("\u003Cscript src=\"//www.mixesdb.com/db/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=monobook\u0026amp;styleVersion=5394\u0026amp;*\"\u003E\u003C/script\u003E");}</script><script src="https://www.youtube.com/iframe_api"></script></body></html>
+'''
